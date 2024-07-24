@@ -1,0 +1,4 @@
+.shadow:hover{
+    box-shadow: 0.5rem 0rem 3rem;
+    color: aqua;
+}
